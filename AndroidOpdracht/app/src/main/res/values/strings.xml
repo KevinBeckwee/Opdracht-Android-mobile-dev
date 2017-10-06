@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidOpdracht</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_text">Search</string>
+    <string name="hint_text">Address</string>
+    <string name="title_activity_enter_marker">EnterMarker</string>
+    <string name="add_marker">Add marker</string>
+    <string name="list_text">Delete Db</string>
+</resources>
